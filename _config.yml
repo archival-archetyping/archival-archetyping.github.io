@@ -44,7 +44,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# search: true
+search: true
+google:
+  search_engine_id: 80daa649bece7db55
+
 share: true
 
 include: ["_pages"]
