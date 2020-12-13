@@ -91,11 +91,13 @@ He is exploring methods to create innovation through the collaboration of people
 </div>
 
 <style type="text/css">
+  /* PC only */
   @media(min-width: 767px) {
     .speakers {
       display: flex;
       width: 100%;
       margin: 0;
+      font-size: 60%;
     }
 
     .speakers>div {
@@ -103,10 +105,11 @@ He is exploring methods to create innovation through the collaboration of people
     }
   }
 
+  /* Common */
   .speakers>div {
     margin: 0 1%;
     border: 0px none;
-    font-size: 60%;
+    font-size: 80%;
   }
 </style>
 
