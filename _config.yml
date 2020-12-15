@@ -48,6 +48,7 @@ plugins:
 search: true
 google:
   search_engine_id: 80daa649bece7db55
+google_site_verification: google9ada862fe6a26361
 
 share: true
 
