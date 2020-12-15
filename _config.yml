@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The website of the Archival Archetyping. 
   Archival Archetyping is a research project since 2019 at the Institute of Advanced Media Arts and Sciences [IAMAS].
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://archival-archetyping.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: archival-archetyping
 
