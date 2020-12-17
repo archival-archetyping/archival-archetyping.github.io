@@ -53,8 +53,6 @@ google_site_verification: "17Jq8kMxZQyDMx_KY4Jea7P_-XiVsPnbrHyxkPVEOpU"
 share: true
 og_image: /assets/images/AA-cover.jpg
 
-og_image: /assets/images/cover.jpg
-
 include: ["_pages"]
 
 defaults:
