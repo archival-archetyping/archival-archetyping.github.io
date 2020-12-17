@@ -11,8 +11,8 @@ permalink: /
 <!-- from here -->
 ## お知らせ - Information
 
-2020.12.13
-: 2020年12月24日より展覧会を開催いたします。詳細は近日中に掲載いたします。
+2020.12.17
+: 2020年12月24日より展覧会を開催いたします。詳細は[こちら](exhibition-2020/index.html)よりご確認ください。
 : We will hold an exhibition from December 24, 2020. Details will be posted soon.
 
 2020.06.09
