@@ -13,7 +13,7 @@ permalink: /
 
 2020.12.17
 : 2020年12月24日より展覧会を開催いたします。詳細は[こちら](exhibition-2020/index.html)よりご確認ください。
-: We will hold an exhibition from December 24, 2020. Details will be posted soon.
+: We will hold an exhibition from December 24, 2020. For more information, please click [here](exhibition-2020/index.html).
 
 2020.06.09
 : 人工知能学会第34回全国大会国際セッションにおいて「[The Morandi Room](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1G3ES504/_article/-char/ja/)」を発表しました。
