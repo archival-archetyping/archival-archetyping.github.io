@@ -37,7 +37,7 @@ Archival Archetyping
 [archival-archetyping-info@group.iamas.ac.jp](mailto:archival-archetyping-info@group.iamas.ac.jp)
 
 ## 参加作家・作品
-- 天野真 《Voice｜Noise》
+- 天野真 《VOICE｜NOISE》
 - Kou Houka 《Time to say GOOD Bye》
 - 丹治圭蔵 《This work is exhibition》
 - 永井歩 《It’s all here》
@@ -45,22 +45,22 @@ Archival Archetyping
 
 ## Archival Archetyping Podcast
 展覧会に向けたPodcast。ホストのKartikaとゲストが、制作の動機や作品の構想について話します。
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/0-Introduction-emciku/a-a3qrou4" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/0-Introduction-emciku/a-a3qrou4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/1-Interview-with-Kobayashi-Shigeru-emj8m2/a-a3sa9dj" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/1-Interview-with-Kobayashi-Shigeru-emj8m2/a-a3sa9dj" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/2-Noise-with-Searching-for-Noise-with-Makoto-Amano-emob5u/a-a3taqmd" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/2-Noise-with-Searching-for-Noise-with-Makoto-Amano-emob5u/a-a3taqmd" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/3-Time-to-say-Goodbye-with-Kou-Houka-emu504/a-a3uhjgq" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/3-Time-to-say-Goodbye-with-Kou-Houka-emu504/a-a3uhjgq" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/4ArchivewithRethinking-Archive-with-Ayumi-Nagai-en1r0s/a-a3vb3l6" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/4ArchivewithRethinking-Archive-with-Ayumi-Nagai-en1r0s/a-a3vb3l6" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/5-Interview-with-Matsui-Shigeru-en75st/a-a40fle4" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/5-Interview-with-Matsui-Shigeru-en75st/a-a40fle4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/6--with--Thinking-about-communication-from-here-onwards-with-Kiyu-Nishida-enbrub/a-a41f0f7" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/6--with--Thinking-about-communication-from-here-onwards-with-Kiyu-Nishida-enbrub/a-a41f0f7" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/7-Interview-with-Ryota-Kuwakubo-enhc81/a-a42l425" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/7-Interview-with-Ryota-Kuwakubo-enhc81/a-a42l425" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/8with-Exhibition-as-ArtworkArtwork-as-Exhibition-with-Keizou-Tanji-enlprt/a-a43k625" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/8with-Exhibition-as-ArtworkArtwork-as-Exhibition-with-Keizou-Tanji-enlprt/a-a43k625" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/9-Group-Discussion-with-all-creators-enrbvf" height="102px" width="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/9-Group-Discussion-with-all-creators-enrbvf" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
