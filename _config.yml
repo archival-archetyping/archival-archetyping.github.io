@@ -46,6 +46,7 @@ plugins:
 #   - vendor/ruby/
 
 search: true
+search_provider: "google"
 google:
   search_engine_id: "80daa649bece7db55"
 google_site_verification: "17Jq8kMxZQyDMx_KY4Jea7P_-XiVsPnbrHyxkPVEOpU"
