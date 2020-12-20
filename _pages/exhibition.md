@@ -66,4 +66,4 @@ Archival Archetyping
 
 <iframe src="https://anchor.fm/iamasaa/embed/episodes/9-Group-Discussion-with-all-creators-enrbvf" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/10-Group-Discussion-with-faculty-members-envp65" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/iamasaa/embed/episodes/10-Group-Discussion-with-faculty-members-envp65" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
