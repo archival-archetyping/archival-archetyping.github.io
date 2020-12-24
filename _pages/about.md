@@ -3,6 +3,16 @@ layout: single
 title: About Archival Archetyping
 permalink: /about/
 ---
+<style type="text/css">
+
+* { box-sizing: border-box; }
+
+html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #fff; font-size: 14px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+@media (min-width: 48em) { html { font-size: 14px; } }
+@media (min-width: 64em) { html { font-size: 16px; } }
+@media (min-width: 80em) { html { font-size: 18px; } }
+
+</style>
 
 Archival Archetypingは、[情報科学芸術大学院大学［IAMAS］](https://www.iamas.ac.jp/)において2019年から活動しているプロジェクトです。
 
