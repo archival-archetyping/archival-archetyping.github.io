@@ -12,7 +12,7 @@ permalink: /
 ## お知らせ - Information
 
 2020.12.17
-: 2020年12月24日より展覧会を開催いたします。詳細は<a href="exhibition-2020/index.html" onclick="gtag('event', 'click', {'event_category': 'transition', 'event_label': 'home to exhibition 2020 (ja)', 'value': '1'});">こちら</a>よりご確認ください。
+: 2020年12月24日より2021年1月10日まで、展覧会を開催いたします。会場は<a href="exhibition-2020/index.html" onclick="gtag('event', 'click', {'event_category': 'transition', 'event_label': 'home to exhibition 2020 (ja)', 'value': '1'});">こちら</a>です。
 : We will hold an exhibition from December 24, 2020. For more information, please click <a href="exhibition-2020/index.html" onclick="gtag('event', 'click', {'event_category': 'transition', 'event_label': 'home to exhibition 2020 (en)', 'value': '1'});">here</a>.
 
 2020.06.09
