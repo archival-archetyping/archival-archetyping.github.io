@@ -27,6 +27,13 @@ toc_sticky: true
  .statement{color:#3D4144 ; width : 100% ; font-size : 85% ; margin : 0 auto 2.5em auto; line-height : 1.9 ; word-wrap:break-word; text-underline-offset: 1.5px;}
 }
 
+* { box-sizing: border-box; }
+
+html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #fff; font-size: 14px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+@media (min-width: 48em) { html { font-size: 14px; } }
+@media (min-width: 64em) { html { font-size: 16px; } }
+@media (min-width: 80em) { html { font-size: 18px; } }
+
 </style>
 
 {::options parse_block_html="false" /}
