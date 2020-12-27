@@ -102,16 +102,23 @@ Archival Archetyping
 
 <iframe src="https://embed.podcasts.apple.com/us/podcast/archival-archetyping-podcast/id1540537951?itsct=podcast_box&amp;itscg=30200" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
 
-<script>
+<script type="text/javascript">
 function trackOutboundLink(event) {
-  gtag('event', event.target.action, {
-    event_category: event.target.id + ': ' + event.target.textContent,
-    event_label: event.target.href,
-    transport_type: 'beacon',
-    event_callback: function () {
-      document.location = event.target.href;
-    },
-  });
+  if (event.target.outerHTML === '<i class="fas fa-podcast"></i>') {
+    gtag('event', 'exhibition_2020_click_audio', {
+      event_category: event.target.parentNode.id,
+      event_label: event.target.parentNode.href,
+    });
+  } else {
+    gtag('event', event.target.action, {
+      event_category: event.target.id + ': ' + event.target.textContent,
+      event_label: event.target.href,
+      transport_type: 'beacon',
+      event_callback: function () {
+        document.location = event.target.href;
+      },
+    });
+  }
 }
 
 document.querySelectorAll('#statement a').forEach((item) => {
