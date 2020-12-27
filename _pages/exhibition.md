@@ -80,11 +80,11 @@ html { /* apply a natural box layout model to all elements */ box-sizing: border
 
 <div id="list_of_works">
   <ul>
-    <li>天野真<a id ="0" href="https://www.voice-noise.com">《VOICE｜NOISE》</a>（Safariのみ対応）</li>
-    <li>Kou Houka<a id ="1" href="https://time-to-say-good-bye.github.io/">《Time to say GOOD Bye》</a></li>
-    <li>丹治圭蔵<a id ="2" href="/exhibition-2020/">《This work is our exhibition》</a></li>
-    <li>永井歩<a id ="3" href="https://nya0429.github.io/online-exhibition/">《It’s all here》</a></li>
-    <li>西田騎夕<a id ="4" href="https://untamable.work">《歩行練習》</a></li>
+    <li>天野真<a id ="0" href="https://www.voice-noise.com">《VOICE｜NOISE》</a>（Safariのみ対応） <a id ="0A" href="https://anchor.fm/iamasaa/episodes/2-Noise-with-Searching-for-Noise-with-Makoto-Amano-emob5u/a-a3taqmd" target="_blank"><i class="fas fa-podcast"></i></a></li>
+    <li>Kou Houka<a id ="1" href="https://time-to-say-good-bye.github.io/">《Time to say GOOD Bye》</a> <a id ="1A" href="https://anchor.fm/iamasaa/episodes/3-Time-to-say-Goodbye-with-Kou-Houka-emu504/a-a3uhjgq" target="_blank"><i class="fas fa-podcast"></i></a></li>
+    <li>丹治圭蔵<a id ="2" href="/exhibition-2020/">《This work is our exhibition》</a> <a id ="2A" href="https://anchor.fm/iamasaa/episodes/8with-Exhibition-as-ArtworkArtwork-as-Exhibition-with-Keizou-Tanji-enlprt/a-a43k625" target="_blank"><i class="fas fa-podcast"></i></a></li>
+    <li>永井歩<a id ="3" href="https://nya0429.github.io/online-exhibition/">《It’s all here》</a> <a id ="3A" href="https://anchor.fm/iamasaa/episodes/4ArchivewithRethinking-Archive-with-Ayumi-Nagai-en1r0s/a-a3vb3l6" target="_blank"><i class="fas fa-podcast"></i></a></li>
+    <li>西田騎夕<a id ="4" href="https://untamable.work">《歩行練習》</a> <a id ="4A" href="https://anchor.fm/iamasaa/episodes/6--with--Thinking-about-communication-from-here-onwards-with-Kiyu-Nishida-enbrub/a-a41f0f7" target="_blank"><i class="fas fa-podcast"></i></a></li>
   </ul>
 </div>
 
@@ -98,31 +98,9 @@ Archival Archetyping
 [archival-archetyping-info@group.iamas.ac.jp](mailto:archival-archetyping-info@group.iamas.ac.jp)
 
 ## Archival Archetyping Podcast
-展覧会に向けたPodcast。ホストのKartikaとゲストが、制作の動機や作品の構想について話します。
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/0-Introduction-emciku/a-a3qrou4" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
+展覧会に向けた<a href="https://anchor.fm/iamasaa">Podcast</a>。ホストのKartikaとゲストが、制作の動機や作品の構想について話します。
 
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/1-Interview-with-Kobayashi-Shigeru-emj8m2/a-a3sa9dj" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/2-Noise-with-Searching-for-Noise-with-Makoto-Amano-emob5u/a-a3taqmd" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/3-Time-to-say-Goodbye-with-Kou-Houka-emu504/a-a3uhjgq" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/4ArchivewithRethinking-Archive-with-Ayumi-Nagai-en1r0s/a-a3vb3l6" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/5-Interview-with-Matsui-Shigeru-en75st/a-a40fle4" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/6--with--Thinking-about-communication-from-here-onwards-with-Kiyu-Nishida-enbrub/a-a41f0f7" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/7-Interview-with-Ryota-Kuwakubo-enhc81/a-a42l425" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/8with-Exhibition-as-ArtworkArtwork-as-Exhibition-with-Keizou-Tanji-enlprt/a-a43k625" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/9-Group-Discussion-with-all-creators-enrbvf" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/10-Group-Discussion-with-faculty-members-envp65" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
-<iframe src="https://anchor.fm/iamasaa/embed/episodes/11-Review-episode-eo4bgo" height="102px" width="100%" frameborder="0-00" scrolling="no"></iframe>
-
+<iframe src="https://embed.podcasts.apple.com/us/podcast/archival-archetyping-podcast/id1540537951?itsct=podcast_box&amp;itscg=30200" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
 
 <script>
 function trackOutboundLink(event) {
