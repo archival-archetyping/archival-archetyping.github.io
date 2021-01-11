@@ -21,9 +21,9 @@ html { /* apply a natural box layout model to all elements */ box-sizing: border
 <!-- from here -->
 ## お知らせ - Information
 
-2020.12.17
-: 2020年12月24日より2021年1月10日まで、展覧会を開催いたします。会場は<a href="exhibition-2020/index.html" onclick="gtag('event', 'click', {'event_category': 'transition', 'event_label': 'home to exhibition 2020 (ja)', 'value': '1'});">こちら</a>です。
-: We will hold an exhibition from December 24, 2020. For more information, please click <a href="exhibition-2020/index.html" onclick="gtag('event', 'click', {'event_category': 'transition', 'event_label': 'home to exhibition 2020 (en)', 'value': '1'});">here</a>.
+2021.01.11
+: 2020年12月24日より2021年1月10日まで、展覧会「[Archival Archetyping Exhibition 2020](/exhibition-2020/)」を開催しました。展覧会に関連して開催したトークイベントの記録と、展覧会レポートを公開しております。
+: We held the [Archival Archetyping Exhibition 2020]((/exhibition-2020/)) from December 24, 2020, to January 10, 2021. Records of the talk event held in association with the exhibition and the exhibition report are available.
 
 2020.06.09
 : 人工知能学会第34回全国大会国際セッションにおいて「[モランディの部屋](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1G3ES504/_article/-char/ja/){: .outbound}」を発表しました。
