@@ -43,7 +43,7 @@ html { /* apply a natural box layout model to all elements */ box-sizing: border
 - 西田 騎夕《歩行練習》
 
 ## 会期
-2021年2月20日（土）〜23日（月・祝）
+2021年2月20日（土）〜23日（火・祝）
 
 ## 会場
 本展覧会特設会場（詳細は後日公開します）
