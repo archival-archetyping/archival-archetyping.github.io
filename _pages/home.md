@@ -21,6 +21,10 @@ html { /* apply a natural box layout model to all elements */ box-sizing: border
 <!-- from here -->
 ## お知らせ - Information
 
+2021.02.11
+: 2021年2月20日より23日まで、情報科学芸術大学院大学［IAMAS］が開催する展覧会「[IAMAS 2021](https://www.iamas.ac.jp/exhibit21/)」にて、展覧会内展覧会「[Archival Archetyping Exhibition in IAMAS 2021](/iamas-2021/)」を開催します。
+: We will hold an intra-exhibition exhibition, "Archival Archetyping Exhibition in IAMAS 2021" at the exhibition "[IAMAS 2021](https://www.iamas.ac.jp/exhibit21/)" held by the Institute of Advanced Media Arts and Sciences [IAMAS](/iamas-2021/) from February 20 to 23, 2021.
+
 2021.01.11
 : 2020年12月24日より2021年1月10日まで、展覧会「[Archival Archetyping Exhibition 2020](/exhibition-2020/)」を開催しました。展覧会に関連して開催したトークイベントの記録と、展覧会レポートを公開しております。
 : We held the [Archival Archetyping Exhibition 2020]((/exhibition-2020/)) from December 24, 2020, to January 10, 2021. Records of the talk event held in association with the exhibition and the exhibition report are available.
