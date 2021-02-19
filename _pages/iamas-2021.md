@@ -49,7 +49,7 @@ Recently, various museums and galleries are offering “online exhibitions”. T
 - 西田 騎夕《歩行練習》 <br> NISHIDA Kiyu “Gait Training”
 
 | 会場構成 <br> Space design | 加藤明洋、小林茂、丹治圭蔵 <br> KATO Akihiro, KOBAYASHI Shigeru, TANJI Keizo |
-| 翻訳 <br> Translation | Kartika Mohandas MENON |
+| 翻訳 <br> Translation | Kartika MENON |
 | アドバイザー <br> Adviser | クワクボリョウタ、松井茂 <br> KUWAKUBO Ryota, MATSUI Shigeru |
 
 ## 会期 - Date
