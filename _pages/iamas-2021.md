@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Archival Archetyping Exhibition in IAMAS 2021"
-date: 2021-02-18 20:00:00 +0900
+date: 2021-02-20 13:00:00 +0900
 categories: events
 permalink: /iamas-2021/
 toc: true
@@ -57,8 +57,7 @@ Recently, various museums and galleries are offering “online exhibitions”. T
 February 20 (Sat.), 13:00 to 23 (Tue.), 18:00, 2021
 
 ## 会場 - Site
-本展覧会特設会場（会期中はこちらのページにリンクを掲載します）  
-Special site for this exhibition (link will be posted on this page during the exhibition period)
+[本展覧会特設会場 - Special site for this exhibition](http://aa-exhibition.vercel.app)
 
 ## 関連Webサイト - Related Web Site
 [IAMAS 2021——情報科学芸術大学院大学 第19期生修了研究発表会 プロジェクト研究発表会](https://www.iamas.ac.jp/exhibit21/)
