@@ -77,3 +77,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/iamas_aa"
+    - label: "E-mail"
+      icon: "fas fa-envelope-open-text"
+      url: "mailto:archival-archetyping-info@group.iamas.ac.jp"
