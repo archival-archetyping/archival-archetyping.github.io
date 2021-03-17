@@ -1,9 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Redefining Interactivity"
-    url: /redefining-interactivity/
-  - title: "Exhibition 2020"
-    url: /exhibition-2020/
-  - title: "IAMAS 2021"
-    url: /iamas-2021/
+  - title: "Meta mo(nu)ment 2021"
+    url: /meta-mo-nu-ment-2021/
+  - title: "Past Events"
+    url: /past-events/
