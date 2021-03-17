@@ -71,3 +71,9 @@ analytics:
   google:
     tracking_id: "G-BSS0BNPBCM"
     anonymize_ip: false # default
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/iamas_aa"
