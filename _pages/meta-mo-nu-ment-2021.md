@@ -56,7 +56,7 @@ html { /* apply a natural box layout model to all elements */ box-sizing: border
 AI.step、天野真、石田英敬、小田原のどか、加藤明洋、クワクボリョウタ、小林茂、丹治圭蔵、西田騎夕、平瀬ミキ、藤幡正樹、松井茂、ミズタニタマミ
 
 ## 企画 - Organizer
-Archival Archetyping
+[Archival Archetyping](https://twitter.com/iamas_aa)
 
 ## 会期 - Date
 2021年3月31日（水）9時〜21時  
