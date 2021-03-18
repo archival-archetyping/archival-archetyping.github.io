@@ -31,7 +31,7 @@ toc_sticky: true
 
 　「メタ・モニュメント」という言葉は、1995年に藤幡正樹が提起した言葉を参照元としています。インターネット初期の動向に接した藤幡は、「多くのユーザーがひとつの価値に吸い寄せられて集まってくる場所というのは、歴史的には「モニュメント」と言われる場所だ」とし、「インターネットの上に、この考え方の延長としてシンボルのようなモニュメントを作ることは可能なのだろうか？」と問いました。
 
-　2020年、テレ・コミュニケーションが実現する親密さと孤絶をの経験を経た私たちは、四半世紀前の問いを反芻してみたいと思いました。
+　2020年、テレ・コミュニケーションが実現する親密さと孤絶の経験を経た私たちは、四半世紀前の問いを反芻してみたいと思いました。
 
 　現代においてこの問いは、より切実さを伴って受け入れられることでしょう。例えば、芸術作品は物理的に存在するモノでなくてはならないのか、芸術体験とはいったいなにか、その体験が必要とするメディアとはなにか。遂行と展示、過程と記録、作品と展覧会、作家と観衆、美術館とアトリエ等、従来の慣習を倣うことが困難なタイミングだからこそ、芸術の基本原理を問い直すことができるはずです。
 
@@ -40,6 +40,21 @@ toc_sticky: true
 　日常が元に戻ることを待つよりも、現実には出来事や経験の意味、人々の役割が変わることを予見します。
 
 　2021年3月31日（水）まで開催情報を随時更新して参ります。議論の共有と共に、当日の参加をお待ちしております（文責：松井茂、丹治圭蔵）。
+
+
+The event will be held online on Wednesday, March 31, 2021.
+
+The term “meta-monument” is a reference to a term coined by Masaki Fujihata in 1995. Fujihata, who was exposed to the early developments of the Internet, said, “Historically, a place where many users are attracted to a singular value is a place called a ‘monument,’” and asked, “Is it possible to create a symbolic monument on the Internet as an extension of this idea?”
+
+In the year 2020, after experiencing the intimacy and separated that　telecommunication will bring, we wanted to ruminate on the question we asked a quarter of a century ago.
+
+In our time, this question is accepted with more urgency. For example, does a work of art have to be a physically existing object, what exactly is an artistic experience, and what kind of media does that experience require? At a time when it is difficult to follow the conventional conventions of execution and exhibition, process and record, work and exhibition, artist and audience, museum and atelier, etc., we should be able to question the basic principles of art.
+
+In doing so, we focused on the word “moment”. Monuments may have existed in the “moments” that the permanent (supposed) format and power had whittled away. Craving for such a rich turn, we will conduct a thought experiment online that departs from conventional constraints.
+
+Rather than waiting for everyday life to return to normal, we foresee that in reality the meaning of events and experiences, and the roles of people will change.
+
+We will be updating information about the event as it happens until Wednesday, March 31, 2021. We look forward to your participation on the day of the event as well as sharing in the discussion (written by Shigeru Matsui and Keizo Tanji).
 
 ## 参加者 - Participants
 Ai.step、天野真、石田英敬、小田原のどか、加藤明洋、クワクボリョウタ、小林茂、丹治圭蔵、西田騎夕、平瀬ミキ、藤幡正樹、松井茂、ミズタニタマミ
