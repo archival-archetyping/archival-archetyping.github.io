@@ -7,16 +7,6 @@ header:
   image: /assets/images/the-morandi-room.jpg
 permalink: /
 ---
-<style type="text/css">
-
-* { box-sizing: border-box; }
-
-html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #fff; font-size: 14px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-@media (min-width: 48em) { html { font-size: 14px; } }
-@media (min-width: 64em) { html { font-size: 16px; } }
-@media (min-width: 80em) { html { font-size: 18px; } }
-
-</style>
 
 <!-- from here -->
 ## お知らせ - Information

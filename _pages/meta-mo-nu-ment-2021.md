@@ -23,21 +23,10 @@ toc_sticky: true
  .general{overflow : hidden ; margin: 10px auto; width:55%;}
  .statement{color:#3D4144 ; width : 100% ; font-size : 85% ; margin : 0 auto 2.5em auto; line-height : 1.9 ; word-wrap:break-word; text-underline-offset: 1.5px;}
 }
-
-* { box-sizing: border-box; }
-
-html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #fff; font-size: 14px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-@media (min-width: 48em) { html { font-size: 14px; } }
-@media (min-width: 64em) { html { font-size: 16px; } }
-@media (min-width: 80em) { html { font-size: 18px; } }
-
 </style>
 {::options parse_block_html="false" /}
 
 # Meta mo(nu)ment 2021
-
-<!-- # Meta mo(nu)ment 2021 -->
-
 　2021年3月31日（水）に、オンラインでイベントを開催します。
 
 　「メタ・モニュメント」という言葉は、1995年に藤幡正樹が提起した言葉を参照元としています。インターネット初期の動向に接した藤幡は、「多くのユーザーがひとつの価値に吸い寄せられて集まってくる場所というのは、歴史的には「モニュメント」と言われる場所だ」とし、「インターネットの上に、この考え方の延長としてシンボルのようなモニュメントを作ることは可能なのだろうか？」と問いました。
