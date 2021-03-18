@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "メタ・モ（ニュ）メント2021"
-date: 2021-03-18 18:00:00 +0900
-categories: events
+date: 2021-03-17 18:00:00 +0900
+categories: events meta-mo-nu-ment-2021
 permalink: /meta-mo-nu-ment-2021/
 toc: true
 toc_icon: "bars"
@@ -53,3 +53,18 @@ March 31 (Wed.), 9:00 to 21:00, 2021
 
 ## Site
 特設会場 - Special site for this event
+
+
+{% for categories in site.categories %}
+{% assign category = categories[0] %}
+{% if category == "meta-mo-nu-ment-2021" %}
+## 更新履歴 - Update History
+<ul>
+    {% for post in site.categories[category] %}
+    <li>
+        <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
