@@ -41,20 +41,19 @@ toc_sticky: true
 
 　2021年3月31日（水）まで開催情報を随時更新して参ります。議論の共有と共に、当日の参加をお待ちしております（文責：松井茂、丹治圭蔵）。
 
+We will hold an event online on Wednesday, March 31, 2021.
 
-The event will be held online on Wednesday, March 31, 2021.
+Fujihata, who was exposed to the early developments of the Internet, said, “Historically, a place where many users are attracted to a singular value is a place called a ‘monument,’” and asked, “Is it possible to create a symbolic monument on the Internet as an extension of this idea?”
 
-The term “meta-monument” is a reference to a term coined by Masaki Fujihata in 1995. Fujihata, who was exposed to the early developments of the Internet, said, “Historically, a place where many users are attracted to a singular value is a place called a ‘monument,’” and asked, “Is it possible to create a symbolic monument on the Internet as an extension of this idea?”
+In the year 2020, after the experience of intimacy and isolation brought by telecommunication, we wanted to ruminate on the question we asked a quarter of a century ago.
 
-In the year 2020, after experiencing the intimacy and separated that　telecommunication will bring, we wanted to ruminate on the question we asked a quarter of a century ago.
+Today, our society may accept this question with more urgency. For example, does a work of art have to be a physically existing object, what exactly is an artistic experience, and what media does that experience require? When it is difficult to follow conventional customs such as execution and exhibition, process and documentation, work and exhibition, artist and audience, museum and atelier, it is possible to question the basic principles of art.
 
-In our time, this question is accepted with more urgency. For example, does a work of art have to be a physically existing object, what exactly is an artistic experience, and what kind of media does that experience require? At a time when it is difficult to follow the conventional conventions of execution and exhibition, process and record, work and exhibition, artist and audience, museum and atelier, etc., we should be able to question the basic principles of art.
+In doing so, we focused on the word “moment.” Monuments may have existed in "moments" that had been whittled away by formats and powers that are (thought to be) permanent. Craving for such a rich turn, we will conduct a thought experiment online that is departed from conventional constraints.
 
-In doing so, we focused on the word “moment”. Monuments may have existed in the “moments” that the permanent (supposed) format and power had whittled away. Craving for such a rich turn, we will conduct a thought experiment online that departs from conventional constraints.
+Rather than waiting for daily life to return to normal, we foresee that in reality, the meaning of events and experiences and the roles of people will change.
 
-Rather than waiting for everyday life to return to normal, we foresee that in reality the meaning of events and experiences, and the roles of people will change.
-
-We will be updating information about the event as it happens until Wednesday, March 31, 2021. We look forward to your participation on the day of the event as well as sharing in the discussion (written by Shigeru Matsui and Keizo Tanji).
+We will be updating information about the event as it happens until Wednesday, March 31, 2021. We look forward to your participation on the day of the event as well as sharing in the discussion. (written by Shigeru Matsui and Keizo Tanji)
 
 ## 参加者 - Participants
 Ai.step、天野真、石田英敬、小田原のどか、加藤明洋、クワクボリョウタ、小林茂、丹治圭蔵、西田騎夕、平瀬ミキ、藤幡正樹、松井茂、ミズタニタマミ
