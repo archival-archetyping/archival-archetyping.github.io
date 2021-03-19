@@ -58,6 +58,8 @@ We will be updating information about the event as it happens until Wednesday, M
 ## 参加者 - Participants
 Ai.step、天野真、石田英敬、小田原のどか、加藤明洋、クワクボリョウタ、小林茂、丹治圭蔵、西田騎夕、平瀬ミキ、藤幡正樹、松井茂、ミズタニタマミ
 
+Ai.step, AMANO Makoto, ISHIDA Hidetaka, ODAWARA Nodoka, KATO Akihiro, KUWAKUBO Ryota, KOBAYASHI Shigeru,TANJI Keizo, NISHIDA Kiyu, HIRASE Miki, FUJIHATA Masaki, MATSUI Shigeru, MIZUTANI Tamami
+
 ## 企画 - Organizer
 [Archival Archetyping](https://twitter.com/iamas_aa)
 
@@ -65,7 +67,7 @@ Ai.step、天野真、石田英敬、小田原のどか、加藤明洋、クワ�
 2021年3月31日（水）9時〜21時  
 March 31 (Wed.), 9:00 to 21:00, 2021
 
-## Site
+## サイト - Site
 特設会場 - Special site for this event
 
 
