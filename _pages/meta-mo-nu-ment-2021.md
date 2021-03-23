@@ -71,9 +71,11 @@ Rather than waiting for daily life to return to normal, we foresee that in reali
 We will be updating information about the event as it happens until Wednesday, March 31, 2021. We look forward to your participation on the day of the event as well as sharing in the discussion. (written by Shigeru Matsui and Keizo Tanji)
 
 ## テキスト - Texts
-[「2021年1月25日。私は「メタ・モ（ニュ）メント2021」と題した企画書を書いた。そして数名の作家にメールした。」](https://docs.google.com/document/d/1Koje0E2_ELUTb-lH61TdVKozmliHvUQTNcz7BKdDr_g/edit?usp=sharing) 松井茂 / Shigeru Matsui
+[「2021年1月25日。私は「メタ・モ（ニュ）メント2021」と題した企画書を書いた。そして数名の作家にメールした。」](https://docs.google.com/document/d/1Koje0E2_ELUTb-lH61TdVKozmliHvUQTNcz7BKdDr_g/edit?usp=sharing) 松井茂 / MATSUI Shigeru
 
-[mtg覚え書き：「声」について](https://docs.google.com/document/d/1ObNL19rj1LoOrVeCtxI3tjbV2b1cnkfb2r-lNZoW2CE/edit?usp=sharing)　丹治圭蔵 / Keizo Tanji
+[mtg覚え書き：「声」について](https://docs.google.com/document/d/1ObNL19rj1LoOrVeCtxI3tjbV2b1cnkfb2r-lNZoW2CE/edit?usp=sharing)　丹治圭蔵 / TANJI Keizo
+
+[オンライン展覧会について考えていること](https://note.com/_kotobuki_/n/n7b78bc8c6e91) 小林茂 / KOBAYASHI Shigeru
 
 ## サイト - Site
 特設会場 - Special site for this event
