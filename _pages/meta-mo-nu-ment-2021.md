@@ -37,20 +37,9 @@ Ai.step、天野真、石田英敬、小田原のどか、加藤明洋、クワ�
 
 Ai.step, AMANO Makoto, ISHIDA Hidetaka, ODAWARA Nodoka, KATO Akihiro, KUWAKUBO Ryota, KOBAYASHI Shigeru,TANJI Keizo, NISHIDA Kiyu, HIRASE Miki, FUJIHATA Masaki, MATSUI Shigeru, MIZUTANI Tamami
 
-## 企画 - Organizer
-[Archival Archetyping](https://twitter.com/iamas_aa)
-
 ## 会期 - Date
-2021年3月31日（水）9時〜21時  
-March 31 (Wed.), 9:00 to 21:00, 2021
-
-## サイト - Site
-特設会場 - Special site for this event
-
-## テキスト - Texts
-[「2021年1月25日。私は「メタ・モ（ニュ）メント2021」と題した企画書を書いた。そして数名の作家にメールした。」](https://docs.google.com/document/d/1Koje0E2_ELUTb-lH61TdVKozmliHvUQTNcz7BKdDr_g/edit?usp=sharing) 松井茂 / Shigeru Matsui
-
-[mtg覚え書き：「声」について](https://docs.google.com/document/d/1ObNL19rj1LoOrVeCtxI3tjbV2b1cnkfb2r-lNZoW2CE/edit?usp=sharing)　丹治圭蔵 / Keizo Tanji
+2021年3月31日（水）9時〜21時 （予定）  
+March 31 (Wed.), 9:00 to 21:00 (tentative), 2021
 
 ## 概要 - Abstract
 　2021年3月31日（水）に、オンラインでイベントを開催します。
@@ -80,6 +69,17 @@ In doing so, we focused on the word “moment.” Monuments may have existed in 
 Rather than waiting for daily life to return to normal, we foresee that in reality, the meaning of events and experiences and the roles of people will change.
 
 We will be updating information about the event as it happens until Wednesday, March 31, 2021. We look forward to your participation on the day of the event as well as sharing in the discussion. (written by Shigeru Matsui and Keizo Tanji)
+
+## テキスト - Texts
+[「2021年1月25日。私は「メタ・モ（ニュ）メント2021」と題した企画書を書いた。そして数名の作家にメールした。」](https://docs.google.com/document/d/1Koje0E2_ELUTb-lH61TdVKozmliHvUQTNcz7BKdDr_g/edit?usp=sharing) 松井茂 / Shigeru Matsui
+
+[mtg覚え書き：「声」について](https://docs.google.com/document/d/1ObNL19rj1LoOrVeCtxI3tjbV2b1cnkfb2r-lNZoW2CE/edit?usp=sharing)　丹治圭蔵 / Keizo Tanji
+
+## サイト - Site
+特設会場 - Special site for this event
+
+## 企画 - Organizer
+[Archival Archetyping](https://twitter.com/iamas_aa)
 
 {% for categories in site.categories %}
 {% assign category = categories[0] %}
