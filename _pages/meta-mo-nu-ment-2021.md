@@ -77,6 +77,8 @@ We will be updating information about the event as it happens until Wednesday, M
 
 [オンライン展覧会について考えていること](https://note.com/_kotobuki_/n/n7b78bc8c6e91) 小林茂 / KOBAYASHI Shigeru
 
+[割れたサラダボウル](https://docs.google.com/document/d/16xpIxvKBA6cHG5Ig6wADeiCnBQi8Ivb1fzuzE7uY_ZY/edit?usp=sharing) 藤幡正樹　/ FUJIHATA Masaki
+
 ## サイト - Site
 特設会場 - Special site for this event
 
