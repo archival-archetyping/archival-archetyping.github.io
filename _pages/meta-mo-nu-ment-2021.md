@@ -73,11 +73,13 @@ We will be updating information about the event as it happens until Wednesday, M
 ## テキスト - Texts
 [「2021年1月25日。私は「メタ・モ（ニュ）メント2021」と題した企画書を書いた。そして数名の作家にメールした。」](https://docs.google.com/document/d/1Koje0E2_ELUTb-lH61TdVKozmliHvUQTNcz7BKdDr_g/edit?usp=sharing) 松井茂 / MATSUI Shigeru
 
-[mtg覚え書き：「声」について](https://docs.google.com/document/d/1ObNL19rj1LoOrVeCtxI3tjbV2b1cnkfb2r-lNZoW2CE/edit?usp=sharing)　丹治圭蔵 / TANJI Keizo
+[mtg覚え書き：「声」について](https://docs.google.com/document/d/1ObNL19rj1LoOrVeCtxI3tjbV2b1cnkfb2r-lNZoW2CE/edit?usp=sharing) 丹治圭蔵 / TANJI Keizo
 
 [オンライン展覧会について考えていること](https://note.com/_kotobuki_/n/n7b78bc8c6e91) 小林茂 / KOBAYASHI Shigeru
 
-[割れたサラダボウル](https://docs.google.com/document/d/16xpIxvKBA6cHG5Ig6wADeiCnBQi8Ivb1fzuzE7uY_ZY/edit?usp=sharing) 藤幡正樹　/ FUJIHATA Masaki
+[割れたサラダボウル](https://docs.google.com/document/d/16xpIxvKBA6cHG5Ig6wADeiCnBQi8Ivb1fzuzE7uY_ZY/edit?usp=sharing) 藤幡正樹 / FUJIHATA Masaki
+
+[「制度とのプロレス」の向こう側](https://docs.google.com/document/d/1WkNwkXQYvl8ZQb0JeLnW0QCXlq-8unLhYxjNZUc0cYE/edit?usp=sharing) ミズタニタマミ / MIZUTANI Tamami
 
 ## サイト - Site
 特設会場 - Special site for this event
