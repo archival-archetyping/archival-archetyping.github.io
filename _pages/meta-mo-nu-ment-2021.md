@@ -81,6 +81,8 @@ We will be updating information about the event as it happens until Wednesday, M
 
 [「制度とのプロレス」の向こう側](https://docs.google.com/document/d/1WkNwkXQYvl8ZQb0JeLnW0QCXlq-8unLhYxjNZUc0cYE/edit?usp=sharing) ミズタニタマミ / MIZUTANI Tamami
 
+[メタ・モ（ニュ）メント2021まえせつ](https://soundcloud.com/shigeru-matsui-621454933/2021-1a)音声版 松井茂 / MATSUI Shigeru
+
 ## サイト - Site
 特設会場 - Special site for this event
 
