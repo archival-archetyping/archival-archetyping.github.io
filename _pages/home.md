@@ -11,9 +11,9 @@ permalink: /
 <!-- from here -->
 ## お知らせ - Information
 
-2021.03.18
-: 2021年3月31日の9時より21時まで、イベント「[メタ・モ（ニュ）メント2021](/meta-mo-nu-ment-2021/)」を開催します。
-: We will hold an event, "[Meta mo(nu)ment 2021](/meta-mo-nu-ment-2021/)" from 9:00 to 21:00 on March 31, 2021.
+2021.03.31
+: 2021年3月31日の9時より21時まで、イベント「[メタ・モ（ニュ）メント2021](/meta-mo-nu-ment-2021/)」を開催しました。
+: We was held an event, "[Meta mo(nu)ment 2021](/meta-mo-nu-ment-2021/)" from 9:00 to 21:00 on March 31, 2021.
 
 2021.02.23
 : 2021年2月20日より23日まで、情報科学芸術大学院大学［IAMAS］が開催する展覧会「[IAMAS 2021](https://www.iamas.ac.jp/exhibit21/)」にて、展覧会内展覧会「[Archival Archetyping Exhibition in IAMAS 2021](/iamas-2021/)」を開催しました。
