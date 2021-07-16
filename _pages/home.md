@@ -11,6 +11,10 @@ permalink: /
 <!-- from here -->
 ## お知らせ - Information
 
+2021.07.16
+: 2021年7月22日の18時より21時まで、「[メディア表現学会（仮称）：オンラインにおける表現とプラットフォームを「共集性」から考える](/society-for-media-creation-tentatively-named/)」を開催します。
+: We will hold [Society for Media Creation (Tentatively Named): Thinking About Creation and Platform from the Perspective of "Collectivity"](/society-for-media-creation-tentatively-named/) from 18:00 to 21:00 on July 22, 2021. [in Japanese]
+
 2021.03.31
 : 2021年3月31日の9時より21時まで、イベント「[メタ・モ（ニュ）メント2021](/meta-mo-nu-ment-2021/)」を開催しました。
 : We was held an event, "[Meta mo(nu)ment 2021](/meta-mo-nu-ment-2021/)" from 9:00 to 21:00 on March 31, 2021.
