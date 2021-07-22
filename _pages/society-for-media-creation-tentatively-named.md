@@ -52,7 +52,7 @@ In events such as performing arts, "collectivity" is important, where individual
 
 ## 会場
 
-[![iamas open_house: 2021](https://www.iamas.ac.jp/wordpress02/wp-content/uploads/iamasopenhouse2021-1728x972.jpg){:width="100%"}](https://iamas-oh2021.vercel.app/)
+[![iamas open_house: 2021](https://www.iamas.ac.jp/wordpress02/wp-content/uploads/iamasopenhouse2021-1728x972.jpg){:width="100%"}](https://iamas-oh2021.vercel.app/session/society-for-media-creation-tentative/)
 
 ## 企画
 
