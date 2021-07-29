@@ -11,9 +11,13 @@ permalink: /
 <!-- from here -->
 ## お知らせ - Information
 
-2021.07.16
-: 2021年7月22日の18時より21時まで、「[メディア表現学会（仮称）：オンラインにおける表現とプラットフォームを「共集性」から考える](/society-for-media-creation-tentatively-named/)」を開催します。
-: We will hold [Society for Media Creation (Tentatively Named): Thinking About Creation and Platform from the Perspective of "Collectivity"](/society-for-media-creation-tentatively-named/) from 18:00 to 21:00 on July 22, 2021. [in Japanese]
+2021.07.23
+: 2020年6月に開催された人工知能学会全国大会国際セッション予稿集に加筆した論文「[The Morandi Room: Entering the World of Morandi’s Paintings Through Machine Learning](https://doi.org/10.1007/978-3-030-73113-7_13)」が公開されました。加筆部分では、Archival Archetypingという考え方や展望にも触れています。
+: The paper [The Morandi Room: Entering the World of Morandi’s Paintings Through Machine Learning](https://doi.org/10.1007/978-3-030-73113-7_13) has been published. We revised it from the proceedings of the international session at the 34th Annual Conference of the Japanese Society for Artificial Intelligence held in June 2020. In the added part, we also introduce the concept of Archival Archetyping and its perspective.
+
+2021.07.22
+: 2021年7月22日の18時より21時まで、「[メディア表現学会（仮称）：オンラインにおける表現とプラットフォームを「共集性」から考える](/society-for-media-creation-tentatively-named/)」を開催しました。
+: We held [Society for Media Creation (Tentatively Named): Thinking About Creation and Platform from the Perspective of "Collectivity"](/society-for-media-creation-tentatively-named/) from 18:00 to 21:00 on July 22, 2021. [in Japanese]
 
 2021.03.31
 : 2021年3月31日の9時より21時まで、イベント「[メタ・モ（ニュ）メント2021](/meta-mo-nu-ment-2021/)」を開催しました。
