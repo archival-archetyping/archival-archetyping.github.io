@@ -1,7 +1,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "メディア表現学会（仮称）"
-    url: /society-for-media-creation-tentatively-named/
   - title: "Past Events"
     url: /past-events/

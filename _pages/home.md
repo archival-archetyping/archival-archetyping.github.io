@@ -9,7 +9,11 @@ permalink: /
 ---
 
 <!-- from here -->
-## お知らせ - Information
+# お知らせ - Information
+
+2021.11.19
+: 2021年11月19日の19時より22時まで、「[〈NFTアート〉の可能性と課題](/potential-and-challenges-of-nft-art/)」を開催しました。
+: We held [The Potential and Challenges of "NFT Art"](/potential-and-challenges-of-nft-art/) from 19:00 to 22:00 on November 19, 2021. [in Japanese]
 
 2021.07.23
 : 2020年6月に開催された人工知能学会全国大会国際セッション予稿集に加筆した論文「[The Morandi Room: Entering the World of Morandi’s Paintings Through Machine Learning](https://doi.org/10.1007/978-3-030-73113-7_13)」が公開されました。加筆部分では、Archival Archetypingという考え方や展望にも触れています。
