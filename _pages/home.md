@@ -11,6 +11,10 @@ permalink: /
 <!-- from here -->
 # お知らせ - Information
 
+2021.12.25
+: インターネット上に分散する作品群に期間限定で繋がりと纏まりを提供する分散型オンラインイベント用プラットフォーム[《i.frame》のオープンソース版](https://github.com/archival-archetyping/i.frame)を公開しました。
+: We released [the open-source version of *i.frame*](https://github.com/archival-archetyping/i.frame/blob/main/README_en.md), a platform for decentralized online events that provides cohesion and coherence for a limited period to artworks distributed across the Internet for a limited time.
+
 2021.11.19
 : 2021年11月19日の19時より22時まで、「[〈NFTアート〉の可能性と課題](/potential-and-challenges-of-nft-art/)」を開催しました。
 : We held [The Potential and Challenges of "NFT Art"](/potential-and-challenges-of-nft-art/) from 19:00 to 22:00 on November 19, 2021. [in Japanese]
