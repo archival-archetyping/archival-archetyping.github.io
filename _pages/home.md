@@ -11,6 +11,14 @@ permalink: /
 <!-- from here -->
 # お知らせ - Information
 
+2022.02.26
+: 展覧会「[IAMAS 2022](https://www.iamas.ac.jp/exhibit22/)」でプロトタイプを展示した「メタ・モ（ニュ）メント2021アーカイブ」のために開発した、WebGISプラットフォーム「Re:Earth」用のプラグイン「[Tweet Block](https://github.com/archival-archetyping/tweet-block-reearth-plugin)」と「[About Widget](https://github.com/archival-archetyping/about-widget-reearth-plugin)」を公開しました。
+: We released the "Tweet Block" and "About Widget" plug-ins for the WebGIS platform "Re:Earth" that we developed for the prototype of the "Meta mo(nu)ment 2021 Archive" exhibited at [IAMAS 2022](https://www.iamas.ac.jp/exhibit22/).
+
+2022.02.19
+: 2021年2月20日から23日まで開催された展覧会「[IAMAS 2022](https://www.iamas.ac.jp/exhibit22/)」の関連イベントとして、オンライントークイベント「[分散型オンラインイベント「メタ・モ（ニュ）メント2021」とは何だったのか？会議](https://youtu.be/ZjFd5M2zf-4)」を開催しました。
+: As a related event to the exhibition "[IAMAS 2022](https://www.iamas.ac.jp/exhibit22/)" held from February 20 to 23, 2021, we had an online talk event, "[A meeting: What was the distributed online event "Meta mo(nu)ment 2021"?](https://youtu.be/ZjFd5M2zf-4)" in Japanese.
+
 2021.12.25
 : インターネット上に分散する作品群に期間限定で繋がりと纏まりを提供する分散型オンラインイベント用プラットフォーム[《i.frame》のオープンソース版](https://github.com/archival-archetyping/i.frame)を公開しました。
 : We released [the open-source version of *i.frame*](https://github.com/archival-archetyping/i.frame/blob/main/README_en.md), a platform for decentralized online events that provides cohesion and coherence for a limited period to artworks distributed across the Internet for a limited time.
