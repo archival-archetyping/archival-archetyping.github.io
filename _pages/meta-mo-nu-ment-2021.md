@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "メタ・モ（ニュ）メント2021 - Meta mo(nu)ment 2021"
-date: 2022-02-19 19:00:00 +0900
+date: 2022-03-31 21:00:00 +0900
 categories: events meta-mo-nu-ment-2021
 permalink: /meta-mo-nu-ment-2021/
 toc: true
@@ -95,8 +95,16 @@ We will be updating information about the event as it happens until Wednesday, M
 
 [Archival Archetyping](https://twitter.com/iamas_aa)
 
-## 関連イベント - Related Events
+## 記録動画 - Recordings
 
-### 分散型オンラインイベント「メタ・モ（ニュ）メント2021」とは何だったのか？会議（2022年2月15日収録）
+### 《「メタ・モ（ニュ）メント2021」当日の記録》
+
+{% include video id="9hzP-A1DJjk" provider="youtube" %}
+
+### 分散型オンラインイベント「メタ・モ（ニュ）メント2021」とは何だったのか？会議：前篇（2022年2月15日収録）
 
 {% include video id="ZjFd5M2zf-4" provider="youtube" %}
+
+### 分散型オンラインイベント「メタ・モ（ニュ）メント2021」とは何だったのか？会議：後篇（2022年2月15日・3月25日収録）
+
+{% include video id="mZEN_TrvEvY" provider="youtube" %}
