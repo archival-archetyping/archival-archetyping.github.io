@@ -11,6 +11,10 @@ permalink: /
 <!-- from here -->
 # お知らせ - Information
 
+2022.03.31
+: 2021年3月31日に開催した分散型オンラインイベント「メタ・モ（ニュ）メント2021」に関する[アーカイブと記録映像を公開](/meta-mo-nu-ment-2021/)しました。
+: We [published the archive and recordings](/meta-mo-nu-ment-2021/) related to the decentralized online event "Meta(nu)ment 2021" held on March 31, 2021.
+
 2022.02.26
 : 展覧会「[IAMAS 2022](https://www.iamas.ac.jp/exhibit22/)」でプロトタイプを展示した「メタ・モ（ニュ）メント2021アーカイブ」のために開発した、WebGISプラットフォーム「Re:Earth」用のプラグイン「[Tweet Block](https://github.com/archival-archetyping/tweet-block-reearth-plugin)」と「[About Widget](https://github.com/archival-archetyping/about-widget-reearth-plugin)」を公開しました。
 : We released the "Tweet Block" and "About Widget" plug-ins for the WebGIS platform "Re:Earth" that we developed for the prototype of the "Meta mo(nu)ment 2021 Archive" exhibited at [IAMAS 2022](https://www.iamas.ac.jp/exhibit22/).
