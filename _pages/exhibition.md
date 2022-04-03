@@ -49,19 +49,27 @@ Archival Archetyping
 [archival-archetyping-info@group.iamas.ac.jp](mailto:archival-archetyping-info@group.iamas.ac.jp)
 
 ## トークイベント
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iSvLkvQySYY?start=58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-2021年1月10日、10:00〜12:30でトークイベントを開催しました。
-プロジェクトの活動と本展覧会の狙いについて紹介した第1部（10:00〜10:45）を公開します。
+
+### 第1部
+
+{% include video id="iSvLkvQySYY?start=58" provider="youtube" %}
+
 - 0:00:00 トークイベントの説明
 - 0:03:37 イントロダクション：小林茂「Archival Archetyping」、「Archival Archetyping Exhibition 2020」について
 - 0:20:45 ディスカッション：クワクボリョウタ
 - 0:28:00 ディスカッション：松井茂
 - 0:36:40 作品紹介（各作品2分）
 
+### 第2部
+
+{% include video id="BEDPyaWDXnY?start=9" provider="youtube" %}
+
 ## レポート
+
 丹治圭蔵「[「メタ」を開くために──「Archival Archetyping Exhibition 2020」展/作品解題](https://www.iamas.ac.jp/report/aa-exhibition-2020/)」情報科学芸術大学院大学［IAMAS］Webサイト（2021年1月8日掲載）
 
 ## Archival Archetyping Podcast
+
 展覧会に向けた<a href="https://anchor.fm/iamasaa">Podcast</a>。ホストのKartikaとゲストが、制作の動機や作品の構想について話します。
 
 <iframe src="https://embed.podcasts.apple.com/us/podcast/archival-archetyping-podcast/id1540537951?itsct=podcast_box&amp;itscg=30200" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
