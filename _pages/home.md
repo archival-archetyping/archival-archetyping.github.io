@@ -12,7 +12,7 @@ permalink: /
 # お知らせ - Information
 
 2022.04.03
-:「メタ・モ（ニュ）メント2021アーカイブ」のために開発した、WebGISプラットフォーム「Re:Earth」用のプラグイン「[Stories Widget](https://github.com/archival-archetyping/stories-widget-reearth-plugin)」を公開しました。
+: 「メタ・モ（ニュ）メント2021アーカイブ」のために開発した、WebGISプラットフォーム「Re:Earth」用のプラグイン「[Stories Widget](https://github.com/archival-archetyping/stories-widget-reearth-plugin)」を公開しました。
 : We released the "[Stories Widget]((https://github.com/archival-archetyping/stories-widget-reearth-plugin))" plug-in for the WebGIS platform "Re:Earth" developed for the "Meta mo(nu)ment 2021 Archive".
 
 2022.03.31
