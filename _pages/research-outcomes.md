@@ -9,8 +9,8 @@ permalink: /research-outcomes/
 - 特集「AIとの共創による新たな作家像」[『情報科学芸術大学院大学紀要』第11巻](https://www.iamas.ac.jp/iamasbooks/journal/journal_of_iamas_vol-11/)（2020年3月19日発行）pp. 51-76
 - 小林茂、桑久保亮太、松井茂、大谷芳之、張心祈、仁泉大輔「[モランディの部屋：鑑賞者が作者の作品世界をより深く鑑賞することを可能にする機械学習を活用した体験型展示](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1G3ES504/_article/-char/ja/)」（人工知能学会第34回全国大会国際セッション口頭発表・2020年6月9日）［[口頭発表と同内容を記録した動画](https://youtu.be/DVa19MwMFW4)］
 - Kobayashi, S., Kuwakubo, R., Matsui, S., Otani, Y., Zhang, X., Niizumi, D. (2021). The Morandi Room: Entering the World of Morandi’s Paintings Through Machine Learning. In: , et al. Advances in Artificial Intelligence. JSAI 2020. Advances in Intelligent Systems and Computing, vol 1357. Springer, Cham. [https://doi.org/10.1007/978-3-030-73113-7_13](https://doi.org/10.1007/978-3-030-73113-7_13)
-- 特集「メディア表現学会（仮称）：オンラインにおける表現とプラットフォームを「共集性」から考える」『情報科学芸術大学院大学紀要』第13巻（2022年3月24日発行）pp. 8-35
-- 高尾俊介、加藤明洋、小林茂「〈NFTアート〉の可能性と課題」『情報科学芸術大学院大学紀要』第13巻（2022年3月24日発行）pp. 38-50
+- 特集「メディア表現学会（仮称）：オンラインにおける表現とプラットフォームを「共集性」から考える」[『情報科学芸術大学院大学紀要』第13巻](https://www.iamas.ac.jp/iamasbooks/journal/journal_of_iamas_vol-13/)（2022年3月24日発行）pp. 8-35
+- 高尾俊介、加藤明洋、小林茂「〈NFTアート〉の可能性と課題」[『情報科学芸術大学院大学紀要』第13巻](https://www.iamas.ac.jp/iamasbooks/journal/journal_of_iamas_vol-13/)（2022年3月24日発行）pp. 38-50
 
 ## イベント
 
