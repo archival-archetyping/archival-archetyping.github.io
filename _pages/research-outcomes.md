@@ -25,6 +25,7 @@ permalink: /research-outcomes/
 - [〈NFTアート〉の可能性と課題](/potential-and-challenges-of-nft-art/)（オンライン・2021年11月19日）
 - [分散型オンラインイベント「メタ・モ（ニュ）メント2021」とは何だったのか？会議](https://www.iamas.ac.jp/exhibit22/events/archival_archetyping/)（オンライン・2022年2月19日）
 - [IAMAS 2022](https://www.iamas.ac.jp/exhibit22/projects/archival_archetyping/)（岐阜県大垣市・2022年2月20〜23日）
+- [DX時代のメディア表現──新しい日常から芸術を思考する](https://www.iamas.ac.jp/newnormal/)（岐阜県大垣市・2024年11月1〜7日）
 
 ## ソフトウェア
 

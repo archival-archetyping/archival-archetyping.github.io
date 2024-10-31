@@ -11,6 +11,9 @@ permalink: /
 <!-- from here -->
 # お知らせ - Information
 
+2024.11.01
+: 展覧会「[DX時代のメディア表現──新しい日常から芸術を思考する](https://www.iamas.ac.jp/newnormal/)」で《モランディの部屋》が再展示されます。
+
 2022.04.03
 : 「メタ・モ（ニュ）メント2021アーカイブ」のために開発した、WebGISプラットフォーム「Re:Earth」用のプラグイン「[Stories Widget](https://github.com/archival-archetyping/stories-widget-reearth-plugin)」を公開しました。
 : We released the "[Stories Widget](https://github.com/archival-archetyping/stories-widget-reearth-plugin)" plug-in for the WebGIS platform "Re:Earth" developed for the "Meta mo(nu)ment 2021 Archive".
